@@ -1,0 +1,4 @@
+libgfx.a
+/build
+*.sav
+.DS_Store
