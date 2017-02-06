@@ -1,4 +1,6 @@
 libgfx.a
 /build
+*.gba
+*.elf
 *.sav
 .DS_Store
